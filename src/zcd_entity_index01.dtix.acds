@@ -1,0 +1,7 @@
+define text index Zcd_Entity_Index01  on zcd_test_table_entity01
+{
+  f_rawstr
+}
+mime type 'application/x-cscompr'
+token separators '\\/;,.:()[]!?*@#\{\}"''&'
+creation configurable default off
