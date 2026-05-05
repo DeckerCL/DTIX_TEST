@@ -1,6 +1,6 @@
 define text index Zcd_Entity_Index01  on zcd_test_table_entity01
 {
-  f_rawstr
+  f_rawstr //aerhtr
 }
 mime type 'application/x-cscompr'
 token separators '\\/;,.:()[]!?*@#\{\}"''&'

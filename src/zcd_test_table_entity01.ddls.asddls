@@ -6,5 +6,6 @@
 define table entity zcd_test_table_entity01
 {
   key k_char   : abap.char(4);
-      f_rawstr : abap.rawstring(0) null;      
+      f_rawstr : abap.rawstring(0) null;
+      f_int1   : abap.int1;      
 }
