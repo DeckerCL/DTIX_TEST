@@ -1,0 +1,7 @@
+define text index ZDTIX_01  on ZSTTE_01
+{
+  f_rawstr
+}
+mime type 'application/x-cscompr'
+token separators '\\/;,.:()[]!?*@#\{\}"''&'
+creation configurable default off
