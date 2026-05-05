@@ -4,19 +4,19 @@
   <asx:values>
    <DTIX>
     <METADATA>
-     <NAME>ZCD_ENTITY_INDEX02</NAME>
+     <NAME>ZDTIX_02</NAME>
      <TYPE>DTIX/DF</TYPE>
      <VERSION>active</VERSION>
      <DESCRIPTION>ZCD_ENTITY_INDEX02</DESCRIPTION>
      <LANGUAGE>EN</LANGUAGE>
      <LINKS>
       <item>
-       <HREF>./zcd_entity_index02/source/main/versions</HREF>
+       <HREF>./zdtix_02/source/main/versions</HREF>
        <REL>http://www.sap.com/adt/relations/versions</REL>
        <TITLE>Historic versions</TITLE>
       </item>
       <item>
-       <HREF>/sap/bc/adt/repository/informationsystem/abaplanguageversions?uri=%2Fsap%2Fbc%2Fadt%2Fddic%2Fdtix%2Fsources%2Fzcd_entity_index02</HREF>
+       <HREF>/sap/bc/adt/repository/informationsystem/abaplanguageversions?uri=%2Fsap%2Fbc%2Fadt%2Fddic%2Fdtix%2Fsources%2Fzdtix_02</HREF>
        <REL>http://www.sap.com/adt/relations/informationsystem/abaplanguageversions</REL>
        <TYPE>application/vnd.sap.adt.nameditems.v1+xml</TYPE>
        <TITLE>Allowed ABAP language versions</TITLE>
@@ -26,11 +26,11 @@
         <UNDEFINED_ATTRIBUTES>
          <item>
           <NAME>etag</NAME>
-          <TEXT>19710401000000001text/plain_B64BcHe7U+AcYmLfoVB80TsDLt8=</TEXT>
+          <TEXT>19710401000000001text/plain_WY+SVXnK4/p8vvXSUZtSJc77lfQ=</TEXT>
          </item>
         </UNDEFINED_ATTRIBUTES>
        </COMMON_ATTRIBUTES>
-       <HREF>./zcd_entity_index02/source/main</HREF>
+       <HREF>./zdtix_02/source/main</HREF>
        <REL>http://www.sap.com/adt/relations/source</REL>
        <TYPE>text/plain</TYPE>
        <TITLE>Source Content</TITLE>
@@ -43,7 +43,7 @@
          </item>
         </UNDEFINED_ATTRIBUTES>
        </COMMON_ATTRIBUTES>
-       <HREF>./zcd_entity_index02/source/main</HREF>
+       <HREF>./zdtix_02/source/main</HREF>
        <REL>http://www.sap.com/adt/relations/source</REL>
        <TYPE>text/html</TYPE>
        <TITLE>Source Content (HTML)</TITLE>
@@ -83,7 +83,7 @@
        <TITLE>Templates Grammar</TITLE>
       </item>
      </LINKS>
-     <SOURCE_URI>./zcd_entity_index02/source/main</SOURCE_URI>
+     <SOURCE_URI>./zdtix_02/source/main</SOURCE_URI>
      <SOURCE_TYPE>ABAP_SOURCE</SOURCE_TYPE>
     </METADATA>
    </DTIX>
